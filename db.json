@@ -4,10 +4,6 @@
             "id": "1"
         }
     ],
-    "deposit-payment": {
-        "id": "1",
-        "bidding-contractId": "1"
-    },
     "deposit-order-info": {
         "bidding-contractId": "1",
         "id": "20220509225200001",
