@@ -1,9 +1,7 @@
 {
-    "bidding-contracts": [
-        {
-            "id": "1"
-        }
-    ],
+    "pay-deposit": {
+        "result": true
+    },
     "deposit-order-info": {
         "bidding-contractId": "1",
         "id": "20220509225200001",
